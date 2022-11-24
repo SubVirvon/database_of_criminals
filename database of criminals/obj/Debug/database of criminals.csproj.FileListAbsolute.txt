@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\database of criminals\database of criminals\bin\Debug\database of criminals.exe.config
+C:\Users\Danii\source\repos\database of criminals\database of criminals\bin\Debug\database of criminals.exe
+C:\Users\Danii\source\repos\database of criminals\database of criminals\bin\Debug\database of criminals.pdb
+C:\Users\Danii\source\repos\database of criminals\database of criminals\obj\Debug\database of criminals.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\database of criminals\database of criminals\obj\Debug\database of criminals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\database of criminals\database of criminals\obj\Debug\database of criminals.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\database of criminals\database of criminals\obj\Debug\database of criminals.exe
+C:\Users\Danii\source\repos\database of criminals\database of criminals\obj\Debug\database of criminals.pdb
